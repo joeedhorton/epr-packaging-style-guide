@@ -1,8 +1,8 @@
 ---
 override:tags: []
 layout: collection
-title: Obligation checker tool
-description: Help organisations understand if they are effected by the epr for packaging regulations
+title: Check if EPR for packaging affects your organisation
+description: A small service to help organisations understand if they are effected by the epr for packaging regulations and what they'll need to do if they are.
 pagination:
   data: collections.obligation-checker
   reverse: true

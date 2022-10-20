@@ -1,6 +1,6 @@
 {
     "tags": ["obligation-checker"],
     "eleventyNavigation": {
-        "parent": "Obligation checker tool"
+        "parent": "Check if EPR for packaging affects your organisation"
     }
 }
