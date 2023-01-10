@@ -6,7 +6,7 @@ module.exports = function (eleventyConfig) {
     ],
     headingPermalinks: true,
     header: {
-      productName: 'EPR for packaging design history',
+      productName: 'EPR style guide',
       search: {
         indexPath: '/search.json',
         sitemapPath: '/sitemap'

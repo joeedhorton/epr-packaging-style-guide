@@ -1,6 +1,6 @@
----
+<!-- ---
 override:tags: []
-layout: collection
+layout: post
 title: Check if EPR for packaging affects your organisation
 description: A small service to help organisations understand if they are effected by the epr for packaging regulations and what they'll need to do if they are.
 pagination:
@@ -13,4 +13,4 @@ eleventyComputed:
     key: "{{ title }}"
     excerpt: "{{ description }}"
     parent: Home
----
+--- -->
