@@ -24,6 +24,16 @@ This guide has:
 
 If you’d like to add something to this style guide, contact caroline.vickers@defra.gov.uk.
 
+
+
+| Syntax      | Description | Description |
+| ----------- | ----------- | ----------- |
+| Header      | Title       | Title       |
+| Paragraph   | Text        | Text        |
+| Paragraph   | Text        | Text        |
+| Paragraph   | Text        | Text        |
+
+
 ## A
 
 ### 
