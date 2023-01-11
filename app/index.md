@@ -113,7 +113,7 @@ We use this phrase to refer generally to the sorts of organisations that are aff
 
 For example:
 
-The regulations will apply to all UK organisations that handle and supply packaging to consumers and businesses. 
+> The regulations will apply to all UK organisations that handle and supply packaging to consumers and businesses. 
 
 Don’t say ‘organisations that work with packaging’ - this phrase did not perform well in testing. 
 
@@ -157,11 +157,11 @@ Instead of referring to ‘obligated packaging’ you could call it ‘packaging
 
 Instead of saying ‘legally obligated' you could use phrases such as:
 
-affected by EPR for packaging
+> affected by EPR for packaging
 
 or
 
-take action under EPR for packaging
+> take action under EPR for packaging
 
 ## Online marketplace
 
@@ -179,15 +179,14 @@ When users are working out if they are obligated or not, we ask them if they car
 
 We say:
 
-You may need to act if you do any of the following:
-
-- supply packaged goods to the UK market under your own brand
-- package goods for another UK organisation
-- use ‘transit packaging’ to protect goods during transport so they can be sold to UK consumers
-- import products in packaging
-- own an online marketplace
-- hire or loan out reusable packaging
-- sell empty packaging
+> You may need to act if you do any of the following:
+> - supply packaged goods to the UK market under your own brand
+> - package goods for another UK organisation
+> - use ‘transit packaging’ to protect goods during transport so they can be sold to UK consumers
+> - import products in packaging
+> - own an online marketplace
+> - hire or loan out reusable packaging
+> - sell empty packaging
 
 ### The packaging activities for collecting data
 
@@ -195,16 +194,13 @@ When users are working out how to categorise their data, we refer to the packagi
 
 We say:
 
-You need to tell us what your role was when you put the packaging on the market. You do this by breaking down your data into the different packaging activities. 
-
-These are: 
-
-- sold under your brand 
-- packed or filled as unbranded 
-- imported 
-- sold as empty packaging 
-- hired or loaned 
-- sold through an online marketplace that you own
+> You need to tell us what your role was when you put the packaging on the market. You do this by breaking down your data into the different packaging activities. These are: 
+> - sold under your brand 
+> - packed or filled as unbranded 
+> - imported 
+> - sold as empty packaging 
+> - hired or loaned 
+> - sold through an online marketplace that you own
 
 ## Parent company
 
@@ -222,9 +218,9 @@ Write out in full, in lower case, when used for the first time on a page.
 
 For example:
 
-packaging waste recycling notes (PRNs)
-
-packaging export recycling notes (PERNs)
+> packaging waste recycling notes (PRNs)
+and 
+> packaging export recycling notes (PERNs)
 
 ## Producer
 
@@ -246,17 +242,17 @@ Avoid saying ‘EPR regulations’ as the regulations technically fall under pro
 
 Instead you could say:
 
-Find out more about the EPR for packaging requirements
+> Find out more about the EPR for packaging requirements
 
-Or
+or
 
-Find out if you’ll be impacted by EPR for packaging
+> Find out if you’ll be impacted by EPR for packaging
 
 It’s fine to use the word ‘regulations’ on its own.
 
 For example:
 
-Find out if the regulations affect you
+> Find out if the regulations affect you
 
 ## Report packaging data
 
