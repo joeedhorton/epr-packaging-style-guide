@@ -13,7 +13,7 @@ eleventyComputed:
 
 A reference of user-facing versions of EPR terms, next to the internal and policy language. 
  
-It also includes the codes that go into data upload spreadsheets.
+Also includes the codes that go into data upload spreadsheets.
 
 <br>
 
