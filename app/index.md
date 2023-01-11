@@ -219,7 +219,9 @@ Write out in full, in lower case, when used for the first time on a page.
 For example:
 
 > packaging waste recycling notes (PRNs)
+
 and 
+
 > packaging export recycling notes (PERNs)
 
 ### Producer
