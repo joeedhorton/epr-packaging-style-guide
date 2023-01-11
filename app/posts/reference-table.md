@@ -10,6 +10,10 @@ It also includes the codes that go into data upload spreadsheets.
 
 For all content that EPR users will see, use the user-facing version. These follow GOV.UK style and our user research findings.
 
+For more detail about what words we use and why, check the style guide.
+
+If you have questions, contact caroline.vickers@defra.gov.uk or richard.furlong@kainos.com
+
 <br>
 
 ## Tables
