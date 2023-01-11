@@ -14,7 +14,9 @@ For all content that EPR users will see, use the user-facing version. These foll
 
 ## Tables
 
-The title of each table has the internal term first and the user-facing equivalent second.
+The title of each table lists the internal term first and the user-facing equivalent second.
+
+<br>
 
 ### Producer Type / Packaging activity
 
