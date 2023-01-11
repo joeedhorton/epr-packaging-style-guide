@@ -66,16 +66,14 @@ Write out in full the first time it’s used on a page, before using the ‘DRS�
 
 When we talk about the data users need to report, we explain it in the following way:
 
-$E
 
-There should be 4 parts to the data you collect about your packaging. These are:
+> There should be 4 parts to the data you collect about your packaging. These are:
+> - packaging activity – this is how you put the packaging on the market
+> - packaging material and weight
+> - packaging type – primary, secondary, shipment or transit
+> - waste type
 
-- packaging activity – this is how you put the packaging on the market
-- packaging material and weight
-- packaging type – primary, secondary, shipment or transit
-- waste type
 
-$E
 
 Don’t use the phrase ‘placed on the market’ - this is for internal use only. Instead say ‘packaging data’. 
 
