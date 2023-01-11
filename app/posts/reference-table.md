@@ -5,11 +5,8 @@ description: "Showing user-facing versions of EPR terms next to internal and pol
 eleventyComputed:
   eleventyNavigation:
     key: home
-    title: "{{ Internal and user-facing language - reference tables }}"
+    title: "{{ title }}"
 ---
-
-
-# Internal and user-facing language - reference tables
 
 A reference of user-facing versions of EPR terms, next to the internal and policy language. 
  
