@@ -45,7 +45,11 @@ We work with subject matter experts to make sure that any content we publish is 
 
 You can search (using the ctrl and f keys) for words or phrases. 
 
-If you’d like to add something to this style guide, or have a question or suggestion, contact senior content designers, caroline.vickers@defra.gov.uk or richard.furlong@kainos.com.
+If you’d like to add something to this style guide, or have a question or suggestion, contact senior content designers:
+
+caroline.vickers@defra.gov.uk 
+
+or richard.furlong@kainos.com
 
 ## A to Z
 
