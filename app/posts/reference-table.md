@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Internal and user-facing language - reference tables"
-description: "Showing user-facing versions of EPR terms next to internal and policy language. Also includes data codes."
+description: "User-facing versions of EPR terms next to internal and policy language. Also includes data codes."
 eleventyComputed:
   eleventyNavigation:
     key: home
