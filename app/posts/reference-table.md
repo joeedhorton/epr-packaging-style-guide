@@ -31,7 +31,7 @@ The title of each table lists the internal term first and the user-facing equiva
 
 | Internal language      | User-facing language | Code for data upload |
 | ----------- | ----------- | ----------- |
-| Producer Type      | Packaging activity       | Title       |
+| Producer Type      | Packaging activity       |        |
 | Brand Owner   | Sold under your brand        | BO        |
 | Packer/Filler   | Packed or filled as unbranded        | PF        |
 | Importer   | Imported        | IM        |
