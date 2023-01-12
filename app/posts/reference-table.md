@@ -63,16 +63,16 @@ The title of each table lists the internal term first and the user-facing equiva
 | Internal language      | User-facing language | Code for data upload |
 | ----------- | ----------- | ----------- |
 | Waste Sub-type     | Packaging type       |       |
-| Primary packaging     |       | P1     |
-| Secondary packaging     |       | P2     |
-| Shipment packaging     |       | P3     |
-| Transit packaging     |       | P4     |
-| Non-primary packaging     |       | P5     |
-| Total packaging     |       | P6     |
-| Total relevant waste     |       | O1     |
-| Waste origin    |       | O2    |
-| Waste transfer     |       | O3     |
-| Street bin    |       | S1     |
+| Primary packaging     | Primary packaging      | P1     |
+| Secondary packaging     | Secondary packaging      | P2     |
+| Shipment packaging     | Shipment packaging      | P3     |
+| Transit packaging     | Transit packaging      | P4     |
+| Non-primary packaging     | Non-primary packaging      | P5     |
+| Total packaging     | Total packaging      | P6     |
+| Total relevant waste     | Total relevant waste      | O1     |
+| Waste origin    | Waste origin      | O2    |
+| Waste transfer     | Waste transfer      | O3     |
+| Street bin    |  Street bin     | S1     |
 
 <br>
 
