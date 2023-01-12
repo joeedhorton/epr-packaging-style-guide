@@ -8,9 +8,6 @@ eleventyComputed:
     title: "{{ title }}"
 ---
 
-A reference of user-facing versions of EPR terms, next to the internal and policy language. 
- 
-Also includes the codes that go into data upload spreadsheets.
 
 <br>
 
