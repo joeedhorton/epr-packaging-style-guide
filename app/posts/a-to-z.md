@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "A to Z"
-description: "A guide covering style, spelling and grammar conventions for EPR for packaging content."
+description: "A guide covering style, spelling and grammar conventions for extended producer responsibility (EPR) for packaging content."
 eleventyComputed:
   eleventyNavigation:
     key: home
