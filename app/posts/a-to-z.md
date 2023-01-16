@@ -59,6 +59,8 @@ See ‘extended producer responsibility’ for more information about how to use
 
 Some users aren’t aware of Defra’s role, so avoid referring to Defra unless necessary. Instead of ‘submit your data to Defra’ say ‘submit your data’.
 
+If you do have to mention it, it's 'Defra' not 'DEFRA'.
+
 ### Deposit Return Scheme (DRS)
 
 Upper case. 
