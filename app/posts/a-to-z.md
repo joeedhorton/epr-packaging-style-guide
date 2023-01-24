@@ -45,7 +45,11 @@ We work with subject matter experts to make sure that any content we publish is 
 
 You can search (using the ctrl and f keys) for words or phrases. 
 
-If you’d like to add something to this style guide, or have a question or suggestion, contact senior content designers caroline.vickers@defra.gov.uk or richard.furlong@kainos.com
+If you’d like to add something to this style guide, or have a question or suggestion, contact senior content designers:
+
+caroline.vickers@defra.gov.uk 
+
+richard.furlong@kainos.com
 
 ## A to Z
 
@@ -54,6 +58,12 @@ If you’d like to add something to this style guide, or have a question or sugg
 Follow the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide) for more general advice on acronyms and abbreviations.
 
 See ‘extended producer responsibility’ for more information about how to use the EPR acronym.
+
+### Backhaul
+
+See 'self-managed waste'.
+
+Backhaul is known by some users, so it's fine to use this term. Try to explain it when it's used, as some less experienced users may not understand it. 
 
 ### Defra
 
@@ -138,6 +148,23 @@ Lower case.
 
 Nation data is what we say when referring to the nation of sale obligation. For consistency, it’s important we use this phrase only and don’t use alternatives such as ‘nation of sale’ or ‘nation of reporting’ in user-facing content.
 
+To give a simple, high level explanation of nation data, we say:
+
+>  Nation data is information about which country in the UK packaging becomes waste. 
+
+To give a more detailed explaination of nation data, we say:
+
+>  Nation data should show where in the UK you’ve supplied packaging to a person or business who’s gone on to throw it away. 
+>  
+>  Supplying packaging includes:
+>  - selling
+>  - hiring
+>  - loaning
+>  - gifting
+>  
+>  Nation data also includes where in the UK you may have thrown away any packaging that you imported. 
+
+
 ### Natural Resources Wales
 
 Upper case.
@@ -167,6 +194,10 @@ Instead of saying ‘legally obligated' you could use phrases such as:
 or
 
 > take action under EPR for packaging
+
+### Offset
+
+All one word. See 'self-managed waste'.
 
 ### Online marketplace
 
@@ -277,6 +308,15 @@ The service is made up of tasks including:
 
 Hyphenated. 
 
+When we talk about self-managed waste, we talk about 'self-managed consumer waste' and 'self-managed organisation waste'. 
+
+To explain this, we say:
+
+> There are 2 types of self-managed waste: 
+> - consumer waste – such as waste you collect through a front of store take-back scheme to offset your own waste  
+> - organisation waste – such as ‘backhauled’ waste
+
+
 ### Scottish Environment Protection Agency
 
 Upper case.
@@ -298,6 +338,10 @@ For user-facing content, we refer to small producers as being a ‘small organis
 Lower case, no hyphen. 
 
 Use ‘street bin waste’, not ‘commonly littered’ or ‘commonly binned’. 
+
+### Take-back
+
+Hyphenated. As in 'front of store take-back scheme'. 
 
 ### Transit/ tertiary packaging
 
