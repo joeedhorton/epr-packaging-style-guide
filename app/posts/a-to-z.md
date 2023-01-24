@@ -142,6 +142,14 @@ Don’t say ‘large producer’. This is a phrase that we should only use inter
 
 For user-facing content, we refer to large producers as being a ‘large organisation’.
 
+### Local authority
+
+Lower case.
+
+Use 'local authority' instead of 'local council'. There's evidence that the phrase 'local authority' is used more widely by people in industry and local government. This differs to the advice in the GOV.UK style guide, which is aimed more at the general public.  
+
+Use capitals for the official name of a local authority. For example ‘Reading Borough Council’, ‘Warwick District Council’ and ‘Swanage Town Council’.
+
 ### Nation data
 
 Lower case.
