@@ -25,9 +25,18 @@ If you have questions, contact caroline.vickers@defra.gov.uk or richard.furlong@
 
 The title of each table lists the internal term first and the user-facing equivalent second.
 
+<a href="Producer Type / Packaging activity">Producer Type / Packaging activity</a></br>
+Waste type</br>
+Waste Sub-type / Packaging type</br>
+Material Type / Packaging material</br>
+Material Sub-type / Type of plastic</br>
+<a href="subtypeother">Material Sub-type / Other packaging material</a></br>
+
+
+
 <br>
 
-### Producer Type / Packaging activity
+<h3 id="Producer Type / Packaging activity">Producer Type / Packaging activity</h3>
 
 | Internal language      | User-facing language | Code for data upload |
 | ----------- | ----------- | ----------- |
@@ -109,7 +118,9 @@ Only for use if the user chooses ‘Plastic’ for packaging material.
  
  <br>
  
-### Material Sub-type / Other packaging material
+### 
+
+<h3 id="subtypeother">Material Sub-type / Other packaging material</h3>
 
 Only for use if the user chooses ‘Other’ for packaging material.
 
