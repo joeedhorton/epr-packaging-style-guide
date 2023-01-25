@@ -50,7 +50,7 @@ The title of each table lists the internal term first and the user-facing equiva
  
  <br>
  
-<h3 id="wastetype">Waste type</h3>
+### <h3 id="wastetype">Waste type</h3>
 
 
 | Internal language      | User-facing language | Code for data upload |
@@ -66,7 +66,7 @@ The title of each table lists the internal term first and the user-facing equiva
  
  <br>
  
-<h3 id="packagingtype">Waste Sub-type / Packaging type</h3>
+### <h3 id="packagingtype">Waste Sub-type / Packaging type</h3>
 
   
 
@@ -86,7 +86,7 @@ The title of each table lists the internal term first and the user-facing equiva
 
 <br>
 
-<h3 id="packagingmaterial">Material Type / Packaging material</h3>
+### <h3 id="packagingmaterial">Material Type / Packaging material</h3>
 
 
 Individual packaging materials are unlikely to change internally vs externally, but are included here for reference.
@@ -108,7 +108,7 @@ Individual packaging materials are unlikely to change internally vs externally, 
 <br>
 
 
-<h3 id="typeplastic">Material Sub-type / Type of plastic</h3>
+### <h3 id="typeplastic">Material Sub-type / Type of plastic</h3>
 
 Only for use if the user chooses ‘Plastic’ for packaging material.
 
@@ -121,9 +121,7 @@ Only for use if the user chooses ‘Plastic’ for packaging material.
  
  <br>
  
-### 
-
-<h3 id="subtypeother">Material Sub-type / Other packaging material</h3>
+### <h3 id="subtypeother">Material Sub-type / Other packaging material</h3>
 
 Only for use if the user chooses ‘Other’ for packaging material.
 
