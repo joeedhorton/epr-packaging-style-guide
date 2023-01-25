@@ -25,18 +25,18 @@ If you have questions, contact caroline.vickers@defra.gov.uk or richard.furlong@
 
 The title of each table lists the internal term first and the user-facing equivalent second.
 
-<a href="Producer Type / Packaging activity">Producer Type / Packaging activity</a></br>
-Waste type</br>
-Waste Sub-type / Packaging type</br>
-Material Type / Packaging material</br>
-Material Sub-type / Type of plastic</br>
-<a href="subtypeother">Material Sub-type / Other packaging material</a></br>
+<a href="#packagingactivity">Producer Type / Packaging activity</a></br>
+<a href="#wastetype">Waste type</a></br>
+<a href="#packagingtype">Waste Sub-type / Packaging type</a></br>
+<a href="#packagingmaterial">Material Type / Packaging material</a></br>
+<a href="#typeplastic">Material Sub-type / Type of plastic</a></br>
+<a href="#subtypeother">Material Sub-type / Other packaging material</a></br>
 
 
 
 <br>
 
-<h3 id="Producer Type / Packaging activity">Producer Type / Packaging activity</h3>
+<h3 id="packagingactivity">Producer Type / Packaging activity</h3>
 
 | Internal language      | User-facing language | Code for data upload |
 | ----------- | ----------- | ----------- |
@@ -50,7 +50,7 @@ Material Sub-type / Type of plastic</br>
  
  <br>
  
-### Waste type
+<h3 id="wastetype">Waste type</h3>
 
 
 | Internal language      | User-facing language | Code for data upload |
@@ -66,7 +66,8 @@ Material Sub-type / Type of plastic</br>
  
  <br>
  
-### Waste Sub-type / Packaging type
+<h3 id="packagingtype">Waste Sub-type / Packaging type</h3>
+
   
 
 | Internal language      | User-facing language | Code for data upload |
@@ -85,7 +86,8 @@ Material Sub-type / Type of plastic</br>
 
 <br>
 
-### Material Type / Packaging material
+<h3 id="packagingmaterial">Material Type / Packaging material</h3>
+
 
 Individual packaging materials are unlikely to change internally vs externally, but are included here for reference.
 
@@ -105,7 +107,8 @@ Individual packaging materials are unlikely to change internally vs externally, 
 
 <br>
 
-### Material Sub-type / Type of plastic
+
+<h3 id="typeplastic">Material Sub-type / Type of plastic</h3>
 
 Only for use if the user chooses ‘Plastic’ for packaging material.
 
