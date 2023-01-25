@@ -41,7 +41,7 @@ The title of each table lists the internal term first and the user-facing equiva
 | Internal language      | User-facing language | Code for data upload |
 | ----------- | ----------- | ----------- |
 | Producer Type      | Packaging activity       |        |
-| Brand Owner   | Sold under your brand        | BO        |
+| Brand Owner   | Supplied under your brand        | SO        |
 | Packer/Filler   | Packed or filled as unbranded        | PF        |
 | Importer   | Imported        | IM        |
 | Distributor   | Sold as empty packaging        | SE         |
@@ -55,9 +55,9 @@ The title of each table lists the internal term first and the user-facing equiva
 
 | Internal language      | User-facing language | Code for data upload |
 | ----------- | ----------- | ----------- |
-| Waste Offsetting     | Recycled privately       | RP       |
-| Waste Backhauling   | Sent to another nation        | SN        |
-| Total EPR Packaging   | Total packaging        | TP        |
+| Waste Offsetting     | Self-managed consumer waste       | CW       |
+| Waste Backhauling   | Self-managed organisation waste        | OW        |
+| Total EPR Packaging   | Small organisation waste - all       | SW        |
 | Household   | Household waste        | HH        |
 | Non-Household   | Non-household waste        | NH         |
 | Street Bin / Commonly Littered   | Street bin waste        | SB        |
@@ -78,10 +78,10 @@ The title of each table lists the internal term first and the user-facing equiva
 | Shipment packaging     | Shipment packaging      | P3     |
 | Transit packaging     | Transit packaging      | P4     |
 | Non-primary packaging     | Non-primary packaging      | P5     |
-| Total packaging     | Total packaging      | P6     |
-| Total relevant waste     | Total relevant waste      | O1     |
-| Waste origin    | Waste origin      | O2    |
-| Waste transfer     | Waste transfer      | O3     |
+| Total packaging     | Online marketplace total      | P6     |
+| Total relevant waste     | Self managed consumer waste - all      | O1     |
+| Waste origin    | Organisation waste - origin      | O2    |
+| Waste transfer     | Organisation waste - transferred      | O3     |
 | Street bin    |  Street bin     | S1     |
 
 <br>
