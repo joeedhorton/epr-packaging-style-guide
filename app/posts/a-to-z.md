@@ -304,13 +304,16 @@ For example:
 
 The name of the service that producers will use to comply with EPR for packaging. 
 
-The service is made up of tasks including:
+The service is made up of individual tasks including:
 
-- check if you need to report packaging data
-- register for this year
-- collect your packaging data
-- submit your packaging data
-- pay your fees
+- 'check if you need to report packaging data'
+- 'register' for this year
+- 'collect your packaging data' - this is when the user gathers their placed on the market data
+- 'submit your packaging data' - this is when the user sends their placed on the market and nation of sale data files ato the regulator
+- 'submit nation data' - see the entry on 'Nation data' for details
+- 'pay your fees'
+
+Only use ‘report’ when you’re talking about the service as a whole, so the entire collection of tasks. Use ‘collect’, ‘submit’ etc when you’re describing specific tasks. 
 
 ### Self-managed waste
 
