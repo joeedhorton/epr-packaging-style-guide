@@ -36,7 +36,7 @@ The title of each table lists the internal term first and the user-facing equiva
 
 <br>
 
-<h3 id="packagingactivity">Producer Type / Packaging activity</h3>
+### <h3 id="packagingactivity">Producer Type / Packaging activity</h3>
 
 | Internal language      | User-facing language | Code for data upload |
 | ----------- | ----------- | ----------- |
