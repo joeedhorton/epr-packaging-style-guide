@@ -53,31 +53,38 @@ richard.furlong@kainos.com
 
 ## A to Z
 
-### Acronyms and abbreviations
+### A
+
+
+#### Acronyms and abbreviations
 
 Follow the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide) for more general advice on acronyms and abbreviations.
 
 See ‘extended producer responsibility’ for more information about how to use the EPR acronym.
 
-### Backhaul
+### B
+
+#### Backhaul
 
 See 'self-managed waste'.
 
 Backhaul is known by some users, so it's fine to use this term. Try to explain it when it's used, as some less experienced users may not understand it. 
 
-### Defra
+### D
+
+#### Defra
 
 Some users aren’t aware of Defra’s role, so avoid referring to Defra unless necessary. Instead of ‘submit your data to Defra’ say ‘submit your data’.
 
 If you do have to mention it, use 'Defra' not 'DEFRA'.
 
-### Deposit Return Scheme (DRS)
+#### Deposit Return Scheme (DRS)
 
 Upper case. 
 
 Write out in full the first time it’s used on a page, before using the ‘DRS’ acronym. 
 
-### Data
+#### Data
 
 When we talk about the data users need to report, we explain it in the following way:
 
@@ -94,21 +101,29 @@ Don’t use the phrase ‘placed on the market’ - this is for internal use onl
 
 Other types of data include ‘nation data’ and ‘registration data’.
 
-### Direct producer
+#### Direct producer
 
 Don’t use ‘direct producer’ in any user-facing content. See ‘producer’ for more information.
 
-### Drinks containers
+#### Drinks containers
 
 Not ‘drink containers’. 
 
-### Environment Agency
+### E
+
+#### Environment Agency
 
 Upper case.
 
 Don’t use the acronym, always write out in full. 
 
-### Extended producer responsibility
+#### Environmental regulator
+
+Lower case.
+
+Say 'environmental regulator' instead of just 'regulator'.  
+
+#### Extended producer responsibility
 
 Lower case.
 
@@ -122,7 +137,9 @@ For a transaction that’s made up of more than one page, write out ‘extended 
 
 The EPR acronym is also used for Environmental Permitting Regulations. To avoid confusion, don’t use ‘EPR’ on its own. Instead say ‘EPR for packaging’.
 
-### Handle or supply
+### H
+
+#### Handle or supply
 
 We use this phrase to refer generally to the sorts of organisations that are affected by EPR for packaging. 
 
@@ -132,17 +149,19 @@ For example:
 
 Don’t say ‘organisations that work with packaging’ - this phrase did not perform well in testing. 
 
-### Household waste
+#### Household waste
 
 Lower case. 
 
-### Large organisation
+### L
+
+#### Large organisation
 
 Don’t say ‘large producer’. This is a phrase that we should only use internally.
 
 For user-facing content, we refer to large producers as being a ‘large organisation’.
 
-### Local authority
+#### Local authority
 
 Lower case.
 
@@ -150,7 +169,9 @@ Use 'local authority' instead of 'local council'. There's evidence that the phra
 
 Use capitals for the official name of a local authority. For example ‘Reading Borough Council’, ‘Warwick District Council’ and ‘Swanage Town Council’.
 
-### Nation data
+### N
+
+#### Nation data
 
 Lower case.
 
@@ -173,23 +194,25 @@ To give a more detailed explaination of nation data, we say:
 >  Nation data also includes where in the UK you may have thrown away any packaging that you imported. 
 
 
-### Natural Resources Wales
+#### Natural Resources Wales
 
 Upper case.
 
 Don’t use the acronym, always write out in full. 
 
-### Non-household waste
+#### Non-household waste
 
 Lower case and hyphenated. 
 
-### Northern Ireland Environment Agency
+#### Northern Ireland Environment Agency
 
 Upper case.
 
 Don’t use the acronym, always write out in full. 
 
-### Obligated
+### O
+
+#### Obligated
 
 We try to avoid using the word ‘obligated’ where possible, as it isn’t Plain English. However, sometimes it’s unavoidable.
 
@@ -203,21 +226,23 @@ or
 
 > take action under EPR for packaging
 
-### Offset
+#### Offset
 
 All one word. See 'self-managed waste'.
 
-### Online marketplace
+#### Online marketplace
 
 Lower case. ‘Marketplace’ is all one word. 
 
-### Packaging activities (producer types)
+### P
+
+#### Packaging activities (producer types)
 
 The packaging activities are how we refer to the way producers handle and supply packaging. 
 
 It’s important that we don’t use the policy labels for the different actors ('brand owner', ‘distributor’ etc.) in user-facing content. This increases a user’s cognitive load, as they need to work out which actor category they fit into.
 
-#### The packaging activities for working out if you’re obligated
+##### The packaging activities for working out if you’re obligated
 
 When users are working out if they are obligated or not, we ask them if they carry out any of the packaging activities. 
 
@@ -232,7 +257,7 @@ We say:
 > - hire or loan out reusable packaging
 > - sell empty packaging
 
-#### The packaging activities for collecting data
+##### The packaging activities for collecting data
 
 When users are working out how to categorise their data, we refer to the packaging activities in a slightly different way. This is because users need to categorise their data in terms of how they placed packaging on the market. Because of this, we phrase the activities in the past tense. 
 
@@ -246,17 +271,17 @@ We say:
 > - hired or loaned 
 > - sold through an online marketplace that you own
 
-### Parent company
+#### Parent company
 
 Use ‘parent company’ instead of ‘holding company’ or ‘holding group’. 
 
 Parent companies are made up of subsidiary companies. 
 
-### Polyethylene terephthalate (PET) plastic
+#### Polyethylene terephthalate (PET) plastic
 
 Always write out in full and provide the acronym and some users know this type of plastic by its acronym. 
 
-### PRNs and PERNs
+#### PRNs and PERNs
 
 Write out in full, in lower case, when used for the first time on a page.
 
@@ -268,7 +293,7 @@ and
 
 > packaging export recycling notes (PERNs)
 
-### Producer
+#### Producer
 
 Avoid using the word ‘producer’ in user-facing content as a way of referring to organisations that are legally obligated. 
 
@@ -282,7 +307,9 @@ For large producer - see ‘large organisation’.
 
 Avoid saying ‘direct producer’.
 
-### Regulations
+### R
+
+#### Regulations
 
 Avoid saying ‘EPR regulations’ as the regulations technically fall under producer responsibility, rather than extended producer responsibility. 
 
@@ -300,7 +327,7 @@ For example:
 
 > Find out if the regulations affect you
 
-### Report packaging data
+#### Report packaging data
 
 The name of the service that producers will use to comply with EPR for packaging. 
 
@@ -315,7 +342,9 @@ The service is made up of individual tasks including:
 
 Only use ‘report’ when you’re talking about the service as a whole, so the entire collection of tasks. Use ‘collect’, ‘submit’ etc when you’re describing specific tasks. 
 
-### Self-managed waste
+### S
+
+#### Self-managed waste
 
 Hyphenated. 
 
@@ -328,45 +357,49 @@ To explain this, we say:
 > - organisation waste – such as ‘backhauled’ waste
 
 
-### Scottish Environment Protection Agency
+#### Scottish Environment Protection Agency
 
 Upper case.
 
 Don’t use the acronym, always write out in full. 
 
-### Single-use
+#### Single-use
 
 Hyphenated. As in ‘single-use drinks containers’. 
 
-### Small organisation
+#### Small organisation
 
 Don’t say ‘small producer’. This is a phrase that we should only use internally.
 
 For user-facing content, we refer to small producers as being a ‘small organisation’.
 
-### Street bin waste
+#### Street bin waste
 
 Lower case, no hyphen. 
 
 Use ‘street bin waste’, not ‘commonly littered’ or ‘commonly binned’. 
 
-### Take-back
+### T
+
+#### Take-back
 
 Hyphenated. As in 'front of store take-back scheme'. 
 
-### Transit/ tertiary packaging
+#### Transit/ tertiary packaging
 
 Use ‘transit packaging’, not ‘tertiary packaging’. 
 
 In some instances it can be useful to remind users that transit packaging is also known as tertiary packaging. 
 
-### Waste management fee
+### W
+
+#### Waste management fee
 
 Lower case.
 
 ‘Waste management fee’ is what we say when referring to the waste cost obligation.
 
-### Weight
+#### Weight
 
 Refer to weight, rather than ‘tonnage’. If necessary, clarify that weight should be provided to the nearest tonne or kilogram. 
 
