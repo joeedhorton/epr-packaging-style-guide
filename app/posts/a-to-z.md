@@ -316,6 +316,12 @@ Avoid saying ‘direct producer’.
 
 ### R
 
+#### Registration/register for EPR
+
+Don't use either of these. For users of the service it’s not a registration process as it is not a one-off journey and you do it alongside other tasks. 
+
+Use 'report organisation details'.
+
 #### Regulations
 
 Avoid saying ‘EPR regulations’ as the regulations technically fall under producer responsibility, rather than extended producer responsibility. 
