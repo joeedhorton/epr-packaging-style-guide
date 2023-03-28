@@ -114,7 +114,12 @@ Don’t use ‘direct producer’ in any user-facing content. See ‘producer’
 
 #### Drinks containers
 
-Not ‘drink containers’. 
+These are reported as either:
+
+- 'household drinks containers'
+- 'non-household drinks containers'
+
+In both cases make sure 'drinks' is plural.
 
 ### E
 
