@@ -58,16 +58,14 @@ The title of each table lists the internal term first and the user-facing equiva
 | Waste Offsetting     | Self-managed consumer waste       | CW       |
 | Waste Backhauling   | Self-managed organisation waste        | OW        |
 | Total EPR Packaging   | Small organisation waste - all       | SW        |
-| Household   | Household waste        | HH        |
-| Non-Household   | Non-household waste        | NH         |
-| Street Bin / Commonly Littered   | Street bin waste        | SB        |
-| Drinks Containers   | Drinks containers        | DC        |
+| Household   | Household packaging        | HH        |
+| Non-Household   | Non-household packaging        | NH         |
 | Re-usable Packaging   | Reusable packaging        | RU        |
  | Street Bin / Commonly Littered   | Commonly ends up in public bins        | SB        |
 | Re-usable Packaging   | Reusable packaging        | RU        |
-|    | Household drinks containers        | HDC        |
-|    | Non-household drinks containers        | NDC        |
-|    | Small organisation packaging - all        | SP        |
+| Drinks containers   | Household drinks containers        | HDC        |
+| Drinks containers   | Non-household drinks containers        | NDC        |
+|   N/A | Small organisation packaging - all        | SP        |
 
  <br>
  
