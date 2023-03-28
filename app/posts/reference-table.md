@@ -26,10 +26,10 @@ If you have questions, contact caroline.vickers@defra.gov.uk or richard.furlong@
 The title of each table lists the internal term first and the user-facing equivalent second.
 
 <a href="#packagingactivity">Producer Type / Packaging activity</a></br>
-<a href="#wastetype">Waste type</a></br>
-<a href="#packagingtype">Waste Sub-type / Packaging type</a></br>
+<a href="#wastetype">Packaging type</a></br>
+<a href="#packagingtype">Waste Sub-type / Packaging class</a></br>
 <a href="#packagingmaterial">Material Type / Packaging material</a></br>
-<a href="#typeplastic">Material Sub-type / Type of plastic</a></br>
+<a href="#othermaterialsubtype">Material Sub-type / Other material subtype</a></br>
 <a href="#subtypeother">Material Sub-type / Other packaging material</a></br>
 
 
@@ -44,13 +44,13 @@ The title of each table lists the internal term first and the user-facing equiva
 | Brand Owner   | Supplied under your brand        | SO        |
 | Packer/Filler   | Packed or filled as unbranded        | PF        |
 | Importer   | Imported        | IM        |
-| Distributor   | Sold as empty packaging        | SE         |
+| Distributor   | Supplied as empty        | SE         |
 | Service Provider   | Hired or loaned        | SP        |
 | Online Marketplace   | Sold through an online marketplace you own        | OM        |
  
  <br>
  
-### <h3 id="wastetype">Waste type</h3>
+### <h3 id="packagingtype">Packaging type</h3>
 
 
 | Internal language      | User-facing language | Code for data upload |
@@ -66,23 +66,23 @@ The title of each table lists the internal term first and the user-facing equiva
  
  <br>
  
-### <h3 id="packagingtype">Waste Sub-type / Packaging type</h3>
+### <h3 id="packagingclass">Waste Sub-type / Packaging class</h3>
 
   
 
 | Internal language      | User-facing language | Code for data upload |
 | ----------- | ----------- | ----------- |
-| Waste Sub-type     | Packaging type       |       |
+| Waste Sub-type     | Packaging class       |       |
 | Primary packaging     | Primary packaging      | P1     |
 | Secondary packaging     | Secondary packaging      | P2     |
 | Shipment packaging     | Shipment packaging      | P3     |
-| Transit packaging     | Transit packaging      | P4     |
-| Non-primary packaging     | Non-primary packaging      | P5     |
+| Transit packaging     | Tertiary packaging      | P4     |
+| Non-primary packaging     | Non-primary reusable packaging      | P5     |
 | Total packaging     | Online marketplace total      | P6     |
 | Total relevant waste     | Self managed consumer waste - all      | O1     |
 | Waste origin    | Organisation waste - origin      | O2    |
 | Waste transfer     | Organisation waste - transferred      | O3     |
-| Street bin    |  Street bin     | S1     |
+| Street bin    |  Public bin     | S1     |
 
 <br>
 
@@ -108,7 +108,7 @@ Individual packaging materials are unlikely to change internally vs externally, 
 <br>
 
 
-### <h3 id="typeplastic">Material Sub-type / Type of plastic</h3>
+### <h3 id="othermaterialsubtype">Material Sub-type / Type of plastic</h3>
 
 Only for use if the user chooses ‘Plastic’ for packaging material.
 
