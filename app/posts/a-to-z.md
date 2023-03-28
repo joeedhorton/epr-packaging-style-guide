@@ -80,18 +80,6 @@ Do not use 'commonly littered'.
 
 ### D
 
-#### Defra
-
-Some users aren’t aware of Defra’s role, so avoid referring to Defra unless necessary. Instead of ‘submit your data to Defra’ say ‘submit your data’.
-
-If you do have to mention it, use 'Defra' not 'DEFRA'.
-
-#### Deposit Return Scheme (DRS)
-
-Upper case. 
-
-Write out in full the first time it’s used on a page, before using the ‘DRS’ acronym. 
-
 #### Data
 
 When we talk about the data users need to report, we explain it in the following way:
@@ -103,10 +91,21 @@ When we talk about the data users need to report, we explain it in the following
 > - packaging class - whether the packaging is primary, secondary, shipment or tertiary 
 > - packaging material and weight
 
-
 Don’t use the phrase ‘placed on the market’ - this is for internal use only. Instead say ‘packaging data’. 
 
-Other types of data include ‘nation data’ and ‘registration data’.
+See also: ‘nation data’
+
+#### Defra
+
+Some users aren’t aware of Defra’s role, so avoid referring to Defra unless necessary. Instead of ‘submit your data to Defra’ say ‘submit your data’.
+
+If you do have to mention it, use 'Defra' not 'DEFRA'.
+
+#### Deposit Return Scheme (DRS)
+
+Upper case. 
+
+Write out in full the first time it’s used on a page, before using the ‘DRS’ acronym. 
 
 #### Direct producer
 
