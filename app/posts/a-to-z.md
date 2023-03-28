@@ -70,6 +70,14 @@ See 'self-managed waste'.
 
 Backhaul is known by some users, so it's fine to use this term. Try to explain it when it's used, as some less experienced users may not understand it. 
 
+### C
+
+#### Commonly ends up in public bins
+
+Do you not use 'street bin waste' - this is not legally accurate.
+
+Do not use 'commonly littered'.
+
 ### D
 
 #### Defra
@@ -90,11 +98,10 @@ When we talk about the data users need to report, we explain it in the following
 
 
 > There should be 4 parts to the data you collect about your packaging. These are:
-> - packaging activity – this is how you put the packaging on the market
+> - packaging activity – this is how you supplied the packaging  
+> - packaging type – for example, if the packaging is household or non-household 
+> - packaging class - whether the packaging is primary, secondary, shipment or tertiary 
 > - packaging material and weight
-> - packaging type – primary, secondary, shipment or transit
-> - waste type
-
 
 
 Don’t use the phrase ‘placed on the market’ - this is for internal use only. Instead say ‘packaging data’. 
@@ -139,19 +146,11 @@ The EPR acronym is also used for Environmental Permitting Regulations. To avoid 
 
 ### H
 
-#### Handle or supply
-
-We use this phrase to refer generally to the sorts of organisations that are affected by EPR for packaging. 
-
-For example:
-
-> The regulations will apply to all UK organisations that handle and supply packaging to consumers and businesses. 
-
-Don’t say ‘organisations that work with packaging’ - this phrase did not perform well in testing. 
-
-#### Household waste
+#### Household packaging
 
 Lower case. 
+
+Don't say 'household waste'.
 
 ### L
 
@@ -179,11 +178,11 @@ Nation data is what we say when referring to the nation of sale obligation. For 
 
 To give a simple, high level explanation of nation data, we say:
 
->  Nation data is information about which country in the UK packaging becomes waste. 
+>  Nation data is information about which nation in the UK packaging is supplied in and which nation in the UK packaging is discarded in.
 
 To give a more detailed explaination of nation data, we say:
 
->  Nation data should show where in the UK you’ve supplied packaging to a person or business who’s gone on to throw it away. 
+>  Nation data should show where in the UK you’ve supplied packaging to a person or business who’s gone on to discard it.
 >  
 >  Supplying packaging includes:
 >  - selling
@@ -191,7 +190,8 @@ To give a more detailed explaination of nation data, we say:
 >  - loaning
 >  - gifting
 >  
->  Nation data also includes where in the UK you may have thrown away any packaging that you imported. 
+>  This also includes packaging that you’ve imported, emptied and then discarded.
+
 
 
 #### Natural Resources Wales
@@ -200,9 +200,11 @@ Upper case.
 
 Don’t use the acronym, always write out in full. 
 
-#### Non-household waste
+#### Non-household packaging
 
-Lower case and hyphenated. 
+Lower case and hyphenated.
+
+Don't say 'household waste'. 
 
 #### Northern Ireland Environment Agency
 
@@ -251,7 +253,7 @@ We say:
 > You may need to act if you do any of the following:
 > - supply packaged goods to the UK market under your own brand
 > - package goods for another UK organisation
-> - use ‘transit packaging’ to protect goods during transport so they can be sold to UK consumers
+> - use tertiary or ‘transit packaging’ to protect goods during transport so they can be sold to UK consumers
 > - import products in packaging
 > - own an online marketplace
 > - hire or loan out reusable packaging
@@ -335,8 +337,8 @@ The service is made up of individual tasks including:
 
 - 'check if you need to report packaging data'
 - 'register' for this year
-- 'collect your packaging data' - this is when the user gathers their placed on the market data
-- 'submit your packaging data' - this is when the user sends their placed on the market and nation of sale data files ato the regulator
+- 'collect your packaging data' - this is when the user gathers their packaging data (previously called 'placed on the market' data - do not use this)
+- 'submit your packaging data' - this is when the user sends their packaging and nation of sale data files to the regulator
 - 'submit nation data' - see the entry on 'Nation data' for details
 - 'pay your fees'
 
@@ -373,11 +375,19 @@ Don’t say ‘small producer’. This is a phrase that we should only use inter
 
 For user-facing content, we refer to small producers as being a ‘small organisation’.
 
-#### Street bin waste
+####Supply or import
 
-Lower case, no hyphen. 
+We use this phrase to refer generally to the sorts of organisations that are affected by EPR for packaging.
 
-Use ‘street bin waste’, not ‘commonly littered’ or ‘commonly binned’. 
+For example:
+> Organisations that supply or import packaging and packaged goods may be affected by EPR for packaging.
+
+When we’re talking specifically about legal obligation, say ‘supplies or imports, then empties and discards packaging’.
+
+Don’t say ‘organisations that work with packaging’ - this phrase did not perform well in testing.
+
+Don’t say ‘handle and supply’.
+
 
 ### T
 
@@ -385,13 +395,17 @@ Use ‘street bin waste’, not ‘commonly littered’ or ‘commonly binned’
 
 Hyphenated. As in 'front of store take-back scheme'. 
 
-#### Transit/ tertiary packaging
+#### Tertiary packaging
 
-Use ‘transit packaging’, not ‘tertiary packaging’. 
+Use ‘tertiary packaging’, not ‘transit packaging’. 
 
-In some instances it can be useful to remind users that transit packaging is also known as tertiary packaging. 
+In some instances it can be useful to remind users that tertiary packaging is also known as transit packaging. 
 
 ### W
+
+#### Waste
+
+For legal reasons we can’t refer to ‘household waste’ or ‘non-household waste’. So we have to say ‘household packaging’ and ‘non-household packaging’. 
 
 #### Waste management fee
 
