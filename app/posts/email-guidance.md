@@ -7,4 +7,5 @@ eleventyComputed:
     key: home
     title: "{{ title }}"
 ---
-hello 
+
+Hello world! 
