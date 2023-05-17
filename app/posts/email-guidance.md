@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Emails: how to write them"
-description: "A guide to best practice for writing email content."
+description: "Best practice for writing email content."
 eleventyComputed:
   eleventyNavigation:
     key: home
