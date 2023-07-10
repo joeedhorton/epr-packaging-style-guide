@@ -8,13 +8,15 @@ eleventyComputed:
     title: "{{ title }}"
 ---
 
-The aim of this guide is to make sure we’re consistent in the way we communicate with users affected by extended producer responsibility (EPR) for packaging.
+The aim of this guide is to make sure we’re consistent in the way we communicate with external users affected by extended producer responsibility (EPR) for packaging.
 
 Users include:
 
 - organisations that handle and supply packaging
 - compliance schemes
 - local authorities
+
+If you're designing for internal users, such as the environmental regulator, the guidance here won't always be appropriate. 
 
 This guide has been designed to complement the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide), rather than to supersede it.
 
@@ -64,7 +66,7 @@ See ‘extended producer responsibility’ for more information about how to use
 
 ### B
 
-#### Backhaul
+#### backhaul
 
 See 'self-managed waste'.
 
@@ -72,11 +74,19 @@ Backhaul is known by some users, so it's fine to use this term. Try to explain i
 
 ### C
 
-#### Commonly ends up in public bins
+#### commonly ends up in public bins
 
 Do you not use 'street bin waste' - this is not legally accurate.
 
 Do not use 'commonly littered'.
+
+#### Companies House
+
+Upper case. 
+
+#### compliance scheme
+
+Lower case. 
 
 ### D
 
@@ -111,7 +121,7 @@ Write out in full the first time it’s used on a page, before using the ‘DRS�
 
 Don’t use ‘direct producer’ in any user-facing content. See ‘producer’ for more information.
 
-#### Drinks containers
+#### drinks containers
 
 These are reported as either:
 
@@ -128,13 +138,13 @@ Upper case.
 
 Don’t use the acronym, always write out in full. 
 
-#### Environmental regulator
+#### environmental regulator
 
 Lower case.
 
 Say 'environmental regulator' instead of just 'regulator'.  
 
-#### Extended producer responsibility
+#### extended producer responsibility
 
 Lower case.
 
@@ -150,7 +160,7 @@ The EPR acronym is also used for Environmental Permitting Regulations. To avoid 
 
 ### H
 
-#### Household packaging
+#### household packaging
 
 Lower case. 
 
@@ -158,13 +168,13 @@ Don't say 'household waste'.
 
 ### L
 
-#### Large organisation
+#### large organisation
 
 Don’t say ‘large producer’. This is a phrase that we should only use internally.
 
 For user-facing content, we refer to large producers as being a ‘large organisation’.
 
-#### Local authority
+#### local authority
 
 Lower case.
 
@@ -174,7 +184,7 @@ Use capitals for the official name of a local authority. For example ‘Reading 
 
 ### N
 
-#### Nation data
+#### nation data
 
 Lower case.
 
@@ -204,7 +214,7 @@ Upper case.
 
 Don’t use the acronym, always write out in full. 
 
-#### Non-household packaging
+#### non-household packaging
 
 Lower case and hyphenated.
 
@@ -232,11 +242,11 @@ or
 
 > take action under EPR for packaging
 
-#### Offset
+#### offset
 
 All one word. See 'self-managed waste'.
 
-#### Online marketplace
+#### online marketplace
 
 Lower case. ‘Marketplace’ is all one word. 
 
@@ -277,13 +287,13 @@ We say:
 > - hired or loaned 
 > - sold through an online marketplace that you own
 
-#### Parent company
+#### parent company
 
 Use ‘parent company’ instead of ‘holding company’ or ‘holding group’. 
 
 Parent companies are made up of subsidiary companies. 
 
-#### Polyethylene terephthalate (PET) plastic
+#### polyethylene terephthalate (PET) plastic
 
 Always write out in full and provide the acronym and some users know this type of plastic by its acronym. 
 
@@ -317,9 +327,11 @@ Avoid saying ‘direct producer’.
 
 #### Registration/register for EPR
 
-Don't use either of these. For users of the service it’s not a registration process as it is not a one-off journey and you do it alongside other tasks. 
+In the 'report packaging data' service, don't use either of these. For users of this service it’s not a registration process as it is not a one-off journey and you do it alongside other tasks. 
 
 Use 'report organisation details'.
+
+Other services may use 'registration' where appropriate.
 
 #### Regulations
 
@@ -352,11 +364,13 @@ The service is made up of individual tasks including:
 - 'submit nation data' - see the entry on 'Nation data' for details
 - 'pay your fees'
 
-Only use ‘report’ when you’re talking about the service as a whole, so the entire collection of tasks. Use ‘collect’, ‘submit’ etc when you’re describing specific tasks. 
+If referring to the service as a noun, use lower case and quotation marks. For example:
+
+> You've been invited to create an account for the 'report packaging data' service.
 
 ### S
 
-#### Self-managed waste
+#### self-managed waste
 
 Hyphenated. 
 
@@ -375,17 +389,17 @@ Upper case.
 
 Don’t use the acronym, always write out in full. 
 
-#### Single-use
+#### single-use
 
 Hyphenated. As in ‘single-use drinks containers’. 
 
-#### Small organisation
+#### small organisation
 
 Don’t say ‘small producer’. This is a phrase that we should only use internally.
 
 For user-facing content, we refer to small producers as being a ‘small organisation’.
 
-####Supply or import
+#### supply or import
 
 We use this phrase to refer generally to the sorts of organisations that are affected by EPR for packaging.
 
@@ -401,11 +415,11 @@ Don’t say ‘handle and supply’.
 
 ### T
 
-#### Take-back
+#### take-back
 
 Hyphenated. As in 'front of store take-back scheme'. 
 
-#### Tertiary packaging
+#### tertiary packaging
 
 Use ‘tertiary packaging’, not ‘transit packaging’. 
 
@@ -417,7 +431,7 @@ In some instances it can be useful to remind users that tertiary packaging is al
 
 For legal reasons we can’t refer to ‘household waste’ or ‘non-household waste’. So we have to say ‘household packaging’ and ‘non-household packaging’. 
 
-#### Waste management fee
+#### waste management fee
 
 Lower case.
 
