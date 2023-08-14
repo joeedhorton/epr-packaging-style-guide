@@ -64,6 +64,14 @@ Follow the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide) for mor
 
 See ‘extended producer responsibility’ for more information about how to use the EPR acronym.
 
+#### approved person
+
+Lower case. Within the 'report packaging data' service, an approved person is someone who can submit data to the environmental regulator. We use this term for legal reasons. 
+
+Explain what this phrase means when it's first used in a transaction. 
+
+See also 'delegate'.
+
 ### B
 
 #### backhaul
@@ -111,13 +119,21 @@ Some users aren’t aware of Defra’s role, so avoid referring to Defra unless 
 
 If you do have to mention it, use 'Defra' not 'DEFRA'.
 
+#### delegate
+
+Lower case. Within the 'report packaging data' service, a delegate is someone who can submit data to the environmental regulator on behalf of an 'approved person'. We use this term for legal reasons. 
+
+Explain what this word means when it's first used in a transaction. 
+
+See also 'approved person'. 
+
 #### Deposit Return Scheme (DRS)
 
 Upper case. 
 
 Write out in full the first time it’s used on a page, before using the ‘DRS’ acronym. 
 
-#### Direct producer
+#### direct producer
 
 Don’t use ‘direct producer’ in any user-facing content. See ‘producer’ for more information.
 
