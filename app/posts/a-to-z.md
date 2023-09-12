@@ -431,6 +431,12 @@ Don’t say ‘handle and supply’.
 
 ### T
 
+#### takeaway
+
+No hyphen. As in 'these regulations apply to anyone who sells takeaway cups'. 
+
+Remember to write as 2 words when using as a verb. For example: 'Cups that you take away'. 
+
 #### take-back
 
 Hyphenated. As in 'front of store take-back scheme'. 
